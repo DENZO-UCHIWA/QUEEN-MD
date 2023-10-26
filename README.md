@@ -1,7 +1,7 @@
    # QUEEN-MD
 
 
-<img alt=Support height="550" src="*https://telegra.ph/file/37740a9a60c49736944a5.jpg"> 
+<img alt=Support height="550" src="https://telegra.ph/file/37740a9a60c49736944a5.jpg"> 
  
 <p align="center">
  <a href="https://chat.whatsapp.com/JFNXyoRTf4t6e9GTaM2Oe6" target="_blank">
