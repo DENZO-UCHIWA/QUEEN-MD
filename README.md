@@ -1,6 +1,6 @@
    # QUEEN-MD
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=34&duration=3500&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi !! I'am QUEEN-MD;Multi-Device+Whatsapp+Bot;developed+By+DENZO+UCHIWA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=34&duration=3500&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi !! I'am QUEEN-MD;Multi-Device+Whatsapp+Bot;BOT+BY+DENZO+UCHIWA🌟" alt="Typing SVG" /></a>
   </p>
 
    <img src="https://telegra.ph/file/08f0eaf22ae3a2808b3a9.jpg"> 
@@ -13,9 +13,9 @@
 </details>
 
 </p>
-<h1 align="center"> 𝐁𝐋𝐀𝐒𝐓-𝐌𝐃 𝑩𝑶𝑻
+<h1 align="center"> 𝐐𝐔𝐄𝐄𝐍-𝐌𝐃 𝐁𝐎𝐓
 </h1>
-<p align="center">  𝘽𝙔 𝘿𝙀𝙉𝙕𝙊-𝙐𝘾𝙃𝙄𝙒𝘼 
+<p align="center">  🎯𝘽𝙔 𝘿𝙀𝙉𝙕𝙊-𝙐𝘾𝙃𝙄𝙒𝘼 
 
 
 
@@ -36,12 +36,12 @@
 
 ## ```DEPLOY IN HEROKU```
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Theking56san/QEEN-AULIVIA-MD&template=https://github.com/Theking56san/QEEN-AULIVIA-MD.git)
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/DENZO-UCHIWA/QEEN-MD&template=https://github.com/DENZO-UCHIWA/QEEN-MD.git)
 
 ## ```DEPLOY IN REPLIT```
 
  <a align="center" >
- <a href="https://repl.it/github/Theking56san/QEEN-AULIVIA-MD">
+ <a href="https://repl.it/github/DENZO-UCHIWA/QEEN-MD">
  <img src="https://repl.it/badge/github/quiec/whatsasena" width="170px" alt="Deploy on REPLIT" >
     
 
