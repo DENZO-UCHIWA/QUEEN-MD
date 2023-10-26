@@ -1,7 +1,9 @@
    # QUEEN-MD
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=34&duration=3500&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi !! I'am QUEEN-MD;Multi-Device+Whatsapp+Bot;Developed+By+DENZO+UCHIWA" alt="Typing SVG" /></a>
+  </p>
 
-
-<img src="https://telegra.ph/file/37740a9a60c49736944a5.jpg"> 
+<img src="https://telegra.ph/file/08f0eaf22ae3a2808b3a9.jpg"> 
  
 <p align="center">
  <a href="https://chat.whatsapp.com/JFNXyoRTf4t6e9GTaM2Oe6" target="_blank">
@@ -10,8 +12,6 @@
 </p>
 </details>
 
-
- 
 </p>
 <h1 align="center"> 𝐁𝐋𝐀𝐒𝐓-𝐌𝐃 𝑩𝑶𝑻
 </h1>
