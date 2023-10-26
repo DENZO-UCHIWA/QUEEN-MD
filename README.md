@@ -55,7 +55,7 @@
 
 
 ## <!-- CONTACTE ME -->
-<b><details><summary>Contacte Denzo uchiwa</summary></
+<b><details><summary>Contacte Denzo uchiwa</summary>
 
 
 
@@ -67,13 +67,8 @@
     <img alt=Support height="100" src="https://telegra.ph/file/eb6347e2764939fbbd35d.png"> 
   </p>
     
- ## ```𝘊𝘰𝘯𝘵𝘢𝘤𝘵 𝘔𝘦```
-   <a href="https://wa.me/244935469526?text=_SALUT%20FRÈRE%20COMMENT%20VOUS???%20J'AI%20BESOIN%20DE%20VOTRE%20AIDE%20CONCERNANT%20TON-BOT.._💓♥️">
-    <img src="https://www.svgrepo.com/show/122874/whatsapp.svg" align="centre" width="100" />
-    
-  
-
-
+ 
+## ```CONFRE DENZO UCHIWA.```
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/ndounguisex">
