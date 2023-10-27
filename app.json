@@ -1,14 +1,14 @@
 { 
-   "name": "Blue-Lion", 
+   "name": "QUEEN-MD", 
    "description": "A Whatsapp md bot built in NodeJs to make experience better", 
-   "logo": "https://raw.githubusercontent.com/nipuna15/nipuna15/main/IMG-20230613-WA0008.jpg", 
+   "logo": "https://telegra.ph/file/40320eabaa16184055bdf.jpg", 
    "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device","baileys","Sam Pandey"], 
    "success_url": "/", 
    "stack": "container", 
  "env": { 
    "OWNER_NAME": { 
    "description": "Name of Bot Owner", 
-       "value": "Eren Yeager" 
+       "value": "Denzo" 
    }, 
    "ALIVE_MESSAGE": { 
      "description": "Alive message for bot", 
@@ -31,7 +31,7 @@
      }, 
     "THUMB_IMAGE": { 
      "description": "THUMBNAIL for bot.", 
-      "value": "https://raw.githubusercontent.com/nipuna15/nipuna15/main/20230616_150824.png" 
+      "value": "https://telegra.ph/file/40320eabaa16184055bdf.jpg" 
      }, 
      "ANTI_BAD_WORD": { 
      "description": "Put words here. If you want it enabled in your bot otherwise leave it blank", 
@@ -39,7 +39,7 @@
      }, 
     "ANTILINK_VALUES": { 
      "description": "Put words for antilink", 
-      "value": "chat.whatsapp.com,fb.com,instagram.com", 
+      "value": "chat.whatsapp.com", 
       "required" :false 
      }, 
       "ANTILINK_ACTION": { 
@@ -55,7 +55,7 @@
        "READ_MESSAGE": { 
      "description": "Fill the value true if you want bot to read all messages.", 
       "required" :false, 
-      "value": "true" 
+      "value": "false" 
      }, 
     "DISABLE_PM": { 
      "description": "Disable bot in pm", 
@@ -66,12 +66,12 @@
        "value": "." 
    }, 
    "OWNER_NUMBER": { 
-     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")", 
-        "value": "94714188730" 
+     "description": "Number of owner bot: e.g:244935469526 \",\")", 
+        "value": "244935469526" 
    }, 
      "OPENAI_API_KEY": { 
-     "description": "Please put your OPENAI api key here.Get it from beta.openai.com ", 
-        "value": "Replace Me(optional)", 
+     "description": "creat accounte here ➡️➡️: openai.com ", 
+        "value": "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", 
         "required" :false 
    }, 
    "MONGODB_URI": { 
@@ -80,7 +80,7 @@
    }, 
      "THEME": { 
      "description": "Put the theme name you want to use. Avilable themes are SECKTOR,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..", 
-      "value": "Blue-Lion" 
+      "value": "QUEEN-MD" 
    }, 
      "WORKTYPE": { 
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.", 
@@ -92,7 +92,7 @@
    }, 
        "AUTO_REACTION": { 
      "description": "Reacts emoji to all commands.", 
-      "value": "true", 
+      "value": "false", 
       "required": false  
    }, 
    "AUTO_BIO": { 
@@ -102,18 +102,18 @@
   }, 
     "ALWAYS_ONLINE": { 
      "description": "All Time Online in whatsapp.", 
-      "value": "true", 
+      "value": "false", 
       "required": false  
    },
  "AUTO_READ_STATUS": { 
      "description": "Auto Seen all status.", 
-      "value": "true", 
+      "value": "false", 
       "required": false  
    },
 
    "PACK_INFO": { 
      "description": "Put packname;authorname.", 
-      "value": "Nipuna;Blue-Lion", 
+      "value": "Denzo;QUEEN-MD", 
       "required": false  
    }, 
    "heroku": { 
