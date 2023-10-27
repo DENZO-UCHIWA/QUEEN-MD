@@ -36,12 +36,12 @@
 
 ## ```DEPLOY IN HEROKU```
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/DENZO-UCHIWA/QEEN-MD&template=https://github.com/DENZO-UCHIWA/QEEN-MD.git)
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/DENZO-UCHIWA/QUEEN-MD&template=https://github.com/DENZO-UCHIWA/QUEEN-MD.git)
 
 ## ```DEPLOY IN REPLIT```
 
  <a align="center" >
- <a href="https://repl.it/github/DENZO-UCHIWA/QEEN-MD">
+ <a href="https://repl.it/github/DENZO-UCHIWA/QUEEN-MD">
  <img src="https://repl.it/badge/github/quiec/whatsasena" width="170px" alt="Deploy on REPLIT" >
     
 
