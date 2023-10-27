@@ -1,10 +1,10 @@
 { 
-   "name": "QUEEN-MD", 
+   "name": "QUEE-MD", 
    "description": "A Whatsapp md bot built in NodeJs to make experience better", 
    "logo": "https://telegra.ph/file/40320eabaa16184055bdf.jpg", 
-   "keywords": ["nodejs", "bot", "whatsapp bot", "BLAST-MD", "QueenBot", "Queen","QueenMD","theme bot","multi device","baileys","DENZO UCHIWA"], 
+   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device","baileys","Sam Pandey"], 
    "success_url": "/", 
-   "stack": "container", 
+   "stack": "container",
  "env": { 
    "OWNER_NAME": { 
    "description": "Name of Bot Owner", 
