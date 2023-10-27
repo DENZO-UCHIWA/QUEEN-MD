@@ -1,0 +1,133 @@
+{ 
+   "name": "QUEEN-MD", 
+   "description": "A Whatsapp md bot built in NodeJs to make experience better", 
+   "logo": "https://telegra.ph/file/40320eabaa16184055bdf.jpg", 
+   "keywords": ["nodejs", "bot", "whatsapp bot", "BLAST-MD", "QueenBot", "Queen","QueenMD","theme bot","multi device","baileys","DENZO UCHIWA"], 
+   "success_url": "/", 
+   "stack": "container", 
+ "env": { 
+   "OWNER_NAME": { 
+   "description": "Name of Bot Owner", 
+       "value": "Denzo" 
+   }, 
+   "ALIVE_MESSAGE": { 
+     "description": "Alive message for bot", 
+      "required" :false 
+     }, 
+     "SESSION_ID": {
+      "description": "Please put your SESSION_ID here"
+    },
+     "AUTO_STATUS_SAVER": { 
+       "description": "Automatically saves status of every person and sends in log number.", 
+        "required" :false 
+       }, 
+     "HEROKU_API_KEY": { 
+     "description": "Put HEROKU API KEY", 
+      "required" :false 
+     }, 
+   "HEROKU_APP_NAME": { 
+     "description": "Put HEROKU APP NAME same as above.", 
+      "required" :false 
+     }, 
+    "THUMB_IMAGE": { 
+     "description": "THUMBNAIL for your bot.", 
+      "value": "https://telegra.ph/file/40320eabaa16184055bdf.jpg" 
+     }, 
+     "ANTI_BAD_WORD": { 
+     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank", 
+      "required" :false 
+     }, 
+    "ANTILINK_VALUES": { 
+     "description": "Put words for antilink", 
+      "value": "chat.whatsapp.com", 
+      "required" :false 
+     }, 
+      "ANTILINK_ACTION": { 
+     "description": "Put action for antilink", 
+      "value": "remove", 
+      "required" :false 
+     }, 
+   "LEVEL_UP_MESSAGE": { 
+     "description": "Fill the value true if you want bot send Level up message in chat.", 
+      "required" :false, 
+      "value": "true" 
+     }, 
+       "READ_MESSAGE": { 
+     "description": "Fill the value true if you want bot to read all messages.", 
+      "required" :false, 
+      "value": "false" 
+     }, 
+    "DISABLE_PM": { 
+     "description": "Disable bot in pm"
+        "value": "true"
+      "required" :false 
+     }, 
+       "PREFIX": { 
+   "description": "Enter your desired prefix for bot.", 
+       "value": "." 
+   }, 
+   "OWNER_NUMBER": { 
+     "description": "The number for owner. e.g: 244935469526 \",\")", 
+        "value": "244935469526" 
+   }, 
+     "OPENAI_API_KEY": { 
+     "description": "Created an account with this link➡️➡️: openai.com", 
+        "value": "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", 
+        "required" :false 
+   }, 
+   "MONGODB_URI": { 
+     "description": "A secret String for Mongodb Connection.(Required),change for better experience", 
+        "value": ""
+     "required": false  
+   }, 
+     "THEME": { 
+     "description": "Put the theme name you want to use. Avilable themes are SECKTOR,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..", 
+      "value": "QUEEN-MD" 
+   }, 
+     "WORKTYPE": { 
+      "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.", 
+      "value": "public" 
+   },
+   "ONLY_GROUP":{
+   "description":"Work only in group.",
+   "value":"false"
+   }, 
+       "AUTO_REACTION": { 
+     "description": "Reacts emoji to all commands.", 
+      "value": "false", 
+      "required": false  
+   }, 
+   "AUTO_BIO": { 
+    "description": "Auto set About.", 
+     "value": "true", 
+     "required": false  
+  }, 
+    "ALWAYS_ONLINE": { 
+     "description": "All Time Online in whatsapp.", 
+      "value": "false", 
+      "required": false  
+   },
+ "AUTO_READ_STATUS": { 
+     "description": "Auto Seen all status.", 
+      "value": "false", 
+      "required": false  
+   },
+    
+   "PACK_INFO": { 
+     "description": "Put packname;authorname.", 
+      "value": "Denzo;QUEEN-MD", 
+      "required": false  
+   }, 
+   "heroku": { 
+     "description": "Weather it is on heroku or not", 
+      "value": "true", 
+      "required": false  
+   } 
+ }, 
+ "formation": { 
+                 "worker": { 
+                         "quantity": 1, 
+                         "size": "basic" 
+                 } 
+         } 
+}
