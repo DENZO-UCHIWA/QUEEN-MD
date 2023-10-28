@@ -21,10 +21,10 @@ const Secktor = require('../lib/commands')
     //---------------------------------------------------------------------------
 Secktor.cmd({
             pattern: "help",
-            alias: ["menu"],
+            alias: ["menu,queen"],
             desc: "Help list",
             category: "general",
-            react: "✨",
+            react: "📃",
             filename: __filename
         },
         async(Void, citel, text) => {
@@ -49,11 +49,11 @@ Secktor.cmd({
                 })
                 const time = moment(moment())
                     .format('HH:mm:ss')
-                moment.tz.setDefault('Asia/KOLKATA')
+                moment.tz.setDefault('Africa/BRAZZAVILLE')
                     .locale('id')
-                const date = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
+                const date = moment.tz('Afica/Brazzaville').format('DD/MM/YYYY')
                 let total = await sck1.countDocuments()
-                let str = `╭────《 ` + fancytext(Config.ownername.split(' ')[0], 58) + ` 》─────⊷\n`
+                let str = `╭╍═════〘 ` + fancytext(Config.ownername.split(' ')[0], 58) + ` 〙╍═════◆\n`
                 str +=
                     '```' + `│ ╭──────────────◆
 ┋► User:- ${citel.pushName}
@@ -63,7 +63,7 @@ Secktor.cmd({
 ┋► owner: ${Config.ownername}
 ┋► Bot name: Queen-MD
 ┋► plugins: ${commands.length}
-╰═══════╍══════╍══════
+╰═══════╍══════╍══════◆
 
     ╭─────────●
     ╎📃𝙘𝙤𝙢𝙢𝙖𝙣𝙙 𝙡𝙞𝙨𝙩
