@@ -1,6 +1,6 @@
    # QUEEN-MD
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=34&duration=3500&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi !! I'AM QUEEN-MD;🌟MULTI-DEVICE+WHATSAPP+BOT🌟;BOT+BY+DENZO+UCHIWA🌟" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=34&duration=3500&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi !! I'AM QUEEN-MD;MULTI-DEVICE+WHATSAPP+BOT;BOT+BY+DENZO+UCHIWA🌟" alt="Typing SVG" /></a>
   </p>
 
    <img src="https://telegra.ph/file/08f0eaf22ae3a2808b3a9.jpg"> 
