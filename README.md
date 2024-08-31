@@ -1,8 +1,8 @@
    # QUEEN-MD
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=34&duration=3500&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi !! I'AM QUEEN-MD;MULTI-DEVICE+WHATSAPP+BOT;BOT+BY+DENZO+UCHIWA🌟" alt="Typing SVG" /></a>
+div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BBFDAFF&center=true&width=910&height=100&lines=I'am+BLAST-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+DENZO+UCHIWA; Developped by DENZO-ICHIWA; PUBLIC+BOT;DATABASE=...🥲" alt="Typing SVG" /></a>
   </p>
-
+  <br>
    <img src="https://telegra.ph/file/08f0eaf22ae3a2808b3a9.jpg"> 
  
 <p align="center">
